@@ -14,3 +14,7 @@ The CIFAR-10 reaches a validation accuracy of 73.56% CIFAR-100 reaches validatio
  #We make our top model
 
  #Construct our full model
+
+The second model trained for classes 5..9 used transfer learning to expedite the training process. It achieved an accuracy of 76.06% after 10 epochs. More importantly the training time was down to just 6 minnutes and 49 seconds.
+
+Therefore, transfer learning significantly brought down the time for processing of data.
