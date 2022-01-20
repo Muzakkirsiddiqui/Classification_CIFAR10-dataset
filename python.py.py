@@ -5,7 +5,7 @@ import numpy as np
 
 from keras.models import load_model
 img_row,img_height,img_depth=32,32,3
-classifier=load_model('/content/Cifar10_vgg16.h5')
+classifier=load_model('/content/Cifar10_model.h5')
 color=True
 scale=8
 
