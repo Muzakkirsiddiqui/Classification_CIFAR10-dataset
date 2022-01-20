@@ -1,4 +1,9 @@
 # Classification_CIFAR10-dataset
+
+The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class.
+There are 50000 training images and 10000 test images.
+The dataset is divided into five training batches and one test batch, each with 10000 images.
+
 Transfer Learning uses information gained by training of a model on one set of data, to make training/testing on some other set of (similar) data more efficient.
 
 This is a Keras model based on VGG16 architecture for CIFAR-10 and CIFAR-100. it can be used either with pretrained weights file or trained from scratch.
