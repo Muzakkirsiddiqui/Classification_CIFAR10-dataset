@@ -7,10 +7,10 @@ This package contains 2 classes one for each datasets, the architecture is based
 
 The CIFAR-10 reaches a validation accuracy of 73.56% CIFAR-100 reaches validation accuracy of 72.48%. On instantiation the model can either be trained or loaded from previous saved weight file.
 
-#Extract the last layer from third block of vgg16 model
+ #Extract the last layer from third block of vgg16 model
 
-#Add Classification layer on top of it
+ #Add Classification layer on top of it
 
-#We make our top model
+ #We make our top model
 
-#Construct our full model
+ #Construct our full model
